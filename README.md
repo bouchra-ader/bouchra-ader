@@ -1,6 +1,6 @@
-![Header](./github-header-image (1).png)
 
-[![MasterHead](file:///C:/Users/admin/Downloads/github-header-image%20(1).png)]
+
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s)]
 <h1 align="center">Hi 👋, I'm Bouchra Aderdour</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200.webp?cid=790b7611yst0w6eylaaci6pujmcjqgf2zox7gpnd2kwjbohz&ep=v1_gifs_search&rid=200.webp&ct=g">
