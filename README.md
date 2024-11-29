@@ -1,9 +1,9 @@
 
 
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s)]
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 <h1 align="center">Hi 👋, I'm Bouchra Aderdour</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200.webp?cid=790b7611yst0w6eylaaci6pujmcjqgf2zox7gpnd2kwjbohz&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/66066b22abacaf358032bb15ab64fe18654e8d00e2ed4d07747d89eccb6596ae/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouchra-ader&label=Profile%20views&color=0e75b6&style=flat" alt="bouchra-ader" /> </p>
 
